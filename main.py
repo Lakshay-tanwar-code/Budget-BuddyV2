@@ -27,7 +27,7 @@ import xml.etree.ElementTree as ET
 import pandas as pd
 import yfinance as yf
 import requests
-from ddgs import DDGS
+from duckduckgo_search import DDGS
 import wikipedia
 import datetime
 from googlesearch import search as google_search
