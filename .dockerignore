@@ -1,0 +1,17 @@
+.venv/
+venv/
+__pycache__/
+chroma_db/
+chroma_db_gemini/
+.langchain.db*
+*.db
+*.db-shm
+*.db-wal
+.env
+.git/
+import_test_log.txt
+synthetic_expenses_100k.csv
+test.pdf
+test_integration.pdf
+dummy.txt
+.vercel/
